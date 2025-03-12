@@ -34,13 +34,13 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://discord.com/users/_arthury" target="_blank">
+  <a href="https://discord.com/users/_arthury" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="50" alt="discord logo"  />
   </a>
-  <a href="mailto:arthuryvens@proton.me" target="_blank">
+  <a href="mailto:arthuryvens@proton.me" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo"  />
   </a>
-  <a  href="https://www.linkedin.com/in/arthur-yvens-36697224a/" target="_blank">
+  <a  href="https://www.linkedin.com/in/arthur-yvens-36697224a/" target="blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
   </a>
 </div>
