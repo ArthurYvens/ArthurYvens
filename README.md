@@ -25,14 +25,14 @@
 ### Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurYvens&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurYvens&theme=tokyonight&hide_border=true" height="160" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=ArthurYvens&theme=tokyonight&hide_border=true" height="170" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurYvens&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
+  <img src="https://ghchart.rshah.org/7aa2f7/ArthurYvens" width="90%" alt="contribution chart" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurYvens&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://img.shields.io/github/followers/ArthurYvens?style=for-the-badge&logo=github&labelColor=1a1b27&color=7aa2f7" alt="followers" />
+  <img src="https://img.shields.io/github/stars/ArthurYvens?style=for-the-badge&logo=github&labelColor=1a1b27&color=7aa2f7" alt="stars" />
 </p>
