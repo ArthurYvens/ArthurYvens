@@ -1,33 +1,38 @@
-<h2 align="left">Hi 👋! My name is Arthur and I'm a Developer from Brazil</h2>
+<h1 align="center">Hi 👋 I'm Arthur</h1>
+<p align="center">Backend developer from Brazil 🇧🇷 — I build Minecraft server software in Java.</p>
 
-<br clear="both">
+---
 
-<br clear="both">
+### Tech
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-<br clear="both">
+### Contact
 
-<div align="center">
-  <a href="https://discord.com/users/_arthury" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="50" alt="discord logo" />
-  </a>
-  <a href="mailto:arthuryvens85@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/arthur-yvens-36697224a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo" />
-  </a>
-</div>
+[![Discord](https://img.shields.io/badge/Discord-_arthury-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_arthury)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthuryvens85@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-yvens-36697224a)
+
+---
+
+### Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurYvens&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurYvens&theme=tokyonight&hide_border=true" height="160" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurYvens&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurYvens&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
