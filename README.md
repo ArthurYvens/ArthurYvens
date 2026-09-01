@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Arthur</h1>
-<p align="center">Backend developer from Brazil 🇧🇷 — I build Minecraft server software in Java.</p>
+<p align="center">Backend developer from Brazil 🇧🇷.</p>
 
 ---
 
